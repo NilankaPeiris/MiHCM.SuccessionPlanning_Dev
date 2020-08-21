@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 import argparse
 from azureml.core.authentication import ServicePrincipalAuthentication
-#test
+#test2
 svc_pr_password = "RzHm3X-Xv_Ubc~q-R89rdLZHQGK_VH.1v7"
 
 svc_pr = ServicePrincipalAuthentication(
