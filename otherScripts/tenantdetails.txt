@@ -1,0 +1,3 @@
+AppId = 306d65da-1788-4088-939e-b1c40bea9c0c
+TenantId = e95e330a-6410-4dd1-a705-575cba48e853
+secret = RzHm3X-Xv_Ubc~q-R89rdLZHQGK_VH.1v7
